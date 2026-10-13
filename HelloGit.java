@@ -1,7 +1,5 @@
 public class HelloGit {
-
-
- public static voidd main(String[] args) {
+ public static void main(String[] args) {
  System.out.println("Hello, " + args[0] + "!");
  }
 }
